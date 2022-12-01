@@ -1,5 +1,9 @@
-.app_navbar{
+.app__navbar{
   width:100%;
   display:flex;
-  border:2px solid black;
+  justify-content: space-between;
+  align-items: center;
+  background:var(--color-black) ;
+  padding:1 rem 2rem;
+
 }
