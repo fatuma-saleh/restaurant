@@ -7,3 +7,11 @@
   padding:1 rem 2rem;
 
 }
+.app__navbar-logo{
+  display:flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.app__navbar-logo img{
+  width:150px;
+}
